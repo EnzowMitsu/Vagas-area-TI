@@ -9,7 +9,7 @@ com o objetivo de obter insights sobre o mercado de trabalho.
 ## Dados
 Os dados utilizados foram obtidos no Kaggle
 - Dataset: Job Dataset
-- Link: https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset
+- Link: https://www.kaggle.com/datasets/joebeachcapital/linkedin-jobs
 
 ## Ferramentas
 - Google Collab
