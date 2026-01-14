@@ -1,17 +1,17 @@
 # Análise de vagas para empregos em TI - Python
 
-## Descrição do projeto
+## 📝 Descrição do projeto
 Projeto criado para realizar análise sobre as vagas na região da Índia, extraídos do Linkedin.
 Esse projeto, foi desenvolvida usando a linguagem Python e feita no ambiente do Google Colab.
 Foram aplicadas técnicas como coleta de dados, limpeza, tratamento e análise exploratória,
 com o objetivo de obter insights sobre o mercado de trabalho.
 
-## Dados
+## 🎲 Dados
 Os dados utilizados foram obtidos no Kaggle
 - Dataset: Job Dataset
 - Link: https://www.kaggle.com/datasets/joebeachcapital/linkedin-jobs
 
-## Ferramentas
+## 🛠️ Ferramentas
 - Google Collab
 - Kaggle API
 - Python
@@ -23,13 +23,29 @@ biliotecas do Python utilizadas:
 - Matplotlib
 - Seaborn
 
-## Processo de obtenção, limpeza e tratamento dos dados
+## 🔄 Processo de obtenção, limpeza e tratamento dos dados
 A obtenção dos dados foram realizadas a partir do Python, utilizando a API do Kaggle, nesta parte, foram utilizadas ferramentas de apoio como o ChatGPT, para o auxílio ao processo de aprendizado e dúvidas.
 Após a obtenção e o carregamento dos dados, foram aplicadas etapas de limpeza, tratamento e análise exploratória.
 
 Ao carregas os dados, foram indentificados que as colunas 'Level'(nível do cargo) e 'Involvement'(regime de trabalho) estavam invertidas. Para corrigir, foi preciso ajustar os nomes das colunas para as corretas.
 
-## Perguntas
+## 📊 Gráficos gerados 
+
+  <table align = "center">
+    <tr>
+      <td align = "center">
+        <img src = "image/gráfico_top_cargos_habilidade.png" width = "260"> 
+      </td>
+      <td align = "center">
+        <img src = "image/gráfico_top_habilidades_aplicacao_por_level.png" width = "260"
+      </td>
+      <td align = "center">
+        <img src = "image/top_local.png" width = "260"
+      </td>
+    </tr>
+  </table>
+
+## ❓ Perguntas
 Este projeto busca responder algumas das seguintes questões:
 
 - Quais as habilidades e os cargos mais requisitadas no mercado?
@@ -37,7 +53,7 @@ Este projeto busca responder algumas das seguintes questões:
 - Quais são as principais diferenças entre vagas de Entry Level e Mid Level?
 - As vagas de emprego estão concentradas em regiões mais desenvolvidas da Índia?
 
-## Insights obtidos
+## 💡 Insights obtidos
 
 - Observa-se que as habilidades mais requisitadas foram Excel, SQL, Java, demonstrando que existe uma forte demanda em habilidades com ferramentas analíticas no mercado de trabalho.
 - Cargos de Team Lead e Project Manager concentram o maior número de vagas, indicando uma demanda em funções de liderança e coordenação de equipes.
