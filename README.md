@@ -34,13 +34,17 @@ Ao carregas os dados, foram indentificados que as colunas 'Level'(nível do carg
   <table align = "center">
     <tr>
       <td align = "center">
-        <img src = "image/gráfico_top_cargos_habilidade.png" width = "260"> 
+        <img src = "image/gráfico_top_cargos_habilidade.png" width = "800"> 
       </td>
+    </tr>
+    <tr>
       <td align = "center">
-        <img src = "image/gráfico_top_habilidades_aplicacao_por_level.png" width = "260"
+        <img src = "image/gráfico_top_habilidades_aplicacao_por_level.png" width = "800"
       </td>
+    </tr>
+    <tr>
       <td align = "center">
-        <img src = "image/top_local.png" width = "260"
+        <img src = "image/top_local.png" width = "800"
       </td>
     </tr>
   </table>
